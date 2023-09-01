@@ -1,1 +1,1 @@
-You only need main.py
+You only need main.py and wallibear.ico
